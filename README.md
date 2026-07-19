@@ -1,5 +1,5 @@
 # DecodeLabs UI/UX Internship
-#<img width="474" height="547" alt="sona" src="https://github.com/user-attachments/assets/f1fe9928-155c-4a92-be61-7b67e0ff1e6f" />
+<img width="781" height="2182" alt="Week 1 - Empathy Map" src="https://github.com/user-attachments/assets/e517faad-2ffe-42d8-b4d4-48bbc4545450" />
  Week 1 – UX Research
 # Project
 Fitness App UX Research
